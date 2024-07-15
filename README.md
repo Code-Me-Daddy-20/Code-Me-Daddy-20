@@ -29,6 +29,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-me-daddy-20&show_icons=true&locale=en&layout=compact" alt="code-me-daddy-20" /></p>
+
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Biyatch&label=Profile%20Views&color=12&pretty=true" />
 </a>
