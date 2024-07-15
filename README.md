@@ -11,3 +11,6 @@
 
 ### 🈴 GitHub Stats:
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Biyatch&label=Profile%20Views&color=12&pretty=true" />
+</a>
