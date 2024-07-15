@@ -11,6 +11,12 @@
 
 ### 🈴 GitHub Stats:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Me-Daddy-20 &theme=radical)
+
+
+
+
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Biyatch&label=Profile%20Views&color=12&pretty=true" />
 </a>
