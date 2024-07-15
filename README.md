@@ -9,3 +9,5 @@
 - 😄 Pronouns : *He / Him / BatMan*
 - ⚡ Hobbies : *Outdoor Sports , Gaming , Travelling*
 
+### 🈴 GitHub Stats:
+
