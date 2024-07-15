@@ -34,7 +34,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-me-daddy-20&show_icons=true&locale=en&layout=compact" alt="code-me-daddy-20" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-me-daddy-20&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="code-me-daddy-20" /></p>
 
 
 
