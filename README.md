@@ -11,7 +11,7 @@
 
 ### 🈴 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Me-Daddy-20&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Me-Daddy-20&theme=onedark)
 
 
 <a href="https://visitcount.itsvg.in">
