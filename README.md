@@ -15,7 +15,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-me-daddy-20" alt="code-me-daddy-20" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-me-daddy-20&" alt="code-me-daddy-20" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=code-me-daddy-20&" alt="code-me-daddy-20" /></p>
 
 ### Languages and Tools:
 <p align="left"> 
