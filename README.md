@@ -16,8 +16,7 @@
 
 
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=code-me-daddy-20&" alt="code-me-daddy-20" style="color:blue; background:gray"/></p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Code-Me-Daddy-20&theme=black-ice&hide_border=true&border_radius=6)](https://git.io/streak-stats)
 
 
 ### Languages and Tools:
