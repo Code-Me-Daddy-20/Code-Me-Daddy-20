@@ -27,8 +27,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-me-daddy-20&show_icons=true&locale=en" alt="code-me-daddy-20" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-me-daddy-20&" alt="code-me-daddy-20" /></p>
 
 
