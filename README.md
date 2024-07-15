@@ -16,7 +16,7 @@
 
 
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=code-me-daddy-20&" alt="code-me-daddy-20" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=code-me-daddy-20&" alt="code-me-daddy-20" style="color:blue; background:gray"/></p>
 
 
 
