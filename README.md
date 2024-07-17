@@ -1,7 +1,7 @@
 ### 🙇 Hi there
 
 - 🧑‍💻 I’m currently working on : *25 React Projects , Linear DSA*
-- 🧠 I’m currently learning : *FrontEnd ( React , Adv. JS ) , DSA*
+- 🧠 I’m currently learning : *FrontEnd ( React , Adv. JavaScript ) , DSA*
 - 👯 I’m looking to collaborate on : *FrontEnd WebSites*
 - 🤔 I’m looking for help with : *how to contribute in Open Source*
 - 💬 Ask me about ...
