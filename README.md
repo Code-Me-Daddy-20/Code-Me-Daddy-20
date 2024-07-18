@@ -30,8 +30,6 @@
 </p>
 
 
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-me-daddy-20&theme=midnight-purple&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=6&card_width=490" alt="code-me-daddy-20" /></p>
 
 
