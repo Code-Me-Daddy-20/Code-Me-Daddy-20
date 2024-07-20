@@ -1,4 +1,4 @@
-### 🙇 Hi there
+### 🙇 Hello there ..
 
 - 🧑‍💻 I’m currently working on : *25 React Projects , Linear DSA*
 - 🧠 I’m currently learning : *FrontEnd ( React , Adv. JavaScript ) , DSA*
