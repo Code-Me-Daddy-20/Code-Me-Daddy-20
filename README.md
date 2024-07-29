@@ -11,10 +11,10 @@
 
 ### 🈴 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Me-Daddy-20&theme=midnight-purple&show_icons=true&hide_border=true&border_radius=6&card_width=490)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-Me-Daddy-20&theme=midnight-purple&show_icons=true&hide_border=false&border_radius=6&card_width=490)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Code-Me-Daddy-20&theme=midnight-purple&hide_border=true&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Code-Me-Daddy-20&theme=midnight-purple&hide_border=false&border_radius=6)](https://git.io/streak-stats)
 
 
 ### Languages and Tools:
@@ -30,7 +30,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-me-daddy-20&theme=midnight-purple&show_icons=true&locale=en&layout=compact&hide_border=true&border_radius=6&card_width=490" alt="code-me-daddy-20" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-me-daddy-20&theme=midnight-purple&show_icons=true&locale=en&layout=compact&hide_border=false&border_radius=6&card_width=490" alt="code-me-daddy-20" /></p>
 
 
 
